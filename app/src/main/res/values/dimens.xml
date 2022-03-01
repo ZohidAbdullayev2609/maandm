@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maps_size">400dp</dimen>
+    <dimen name="dv_sizr">18sp</dimen>
+    <dimen name="tv_size">22sp</dimen>
+    <dimen name="second_padding">10dp</dimen>
+</resources>
